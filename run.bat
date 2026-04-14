@@ -1,2 +1,2 @@
-cd C:\Users\a\eclipse-workspace\Opencart_project
+cd C:\Users\a\Desktop\Proj
 mvn clean test
